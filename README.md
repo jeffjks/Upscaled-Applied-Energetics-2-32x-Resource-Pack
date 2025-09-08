@@ -1,7 +1,7 @@
 <img src="pack.png" width="320" height="320"/>
 
 # Upscaled Applied Energetics 2 32x Resource Pack
-32x Resource pack for minecraft ae2 mod
+32x Resource pack for minecraft AE2 mod
 
 ## Credits
 - Improved Applied Energistics 2 - This resource pack was based on Improved AE2 Resource Pack
