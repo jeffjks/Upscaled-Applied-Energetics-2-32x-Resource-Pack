@@ -4,7 +4,7 @@
 32x Resource pack for minecraft AE2 mod
 
 ## Credits
-- Improved Applied Energistics 2 - This resource pack was based on Improved AE2 Resource Pack
+- Improved Applied Energistics 2 - Some textures from this pack were based on Improved AE2 Resource Pack
 https://www.curseforge.com/minecraft/texture-packs/improved-applied-energistics-2
 - Faithful 32x - Some textures from this pack were based on Faithful 32x
 https://github.com/Faithful-Resource-Pack/Faithful-32x-Java
