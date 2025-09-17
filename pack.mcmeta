@@ -1,10 +1,6 @@
 {
   "pack": {
     "pack_format": 34,
-    "supported_formats": {
-      "min_inclusive":18,
-      "max_inclusive":34
-    },
-    "description": "ver 1.2\nAuthor:§a BeanPeanut"
+    "description": "ver 1.0\nAuthor:§a BeanPeanut"
   }
 }
